@@ -1,0 +1,4 @@
+# Only needed to RETRAIN the model (models/train_model.py).
+# Running the app does not need these.
+scikit-learn
+pandas
